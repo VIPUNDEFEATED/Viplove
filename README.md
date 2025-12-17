@@ -39,8 +39,8 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
+- 📷 Instagram: [@anujbuilds](https://instagram.com/s_navendu_)
+- 🎬 YouTube: [tap youtube](https://youtube.com/@theflexfunner)
 - 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
 - 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
 
